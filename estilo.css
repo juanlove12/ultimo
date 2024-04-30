@@ -114,5 +114,5 @@ div img:last-child {
   top: 15px; /* ajusta según sea necesario */
   right: 100px; /* ajusta según sea necesario */
   max-width: 25%; /* la imagen ocupará máximo el ancho del contenedor */
-  height: 100%; /* la altura se ajustará automáticamente para mantener la proporción */
+  height: 20%; /* la altura se ajustará automáticamente para mantener la proporción */
 }
