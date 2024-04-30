@@ -111,7 +111,7 @@ div img:last-child {
 .imagen-centrada {
   display: block;
   position: absolute;
-  top: 35px; /* ajusta según sea necesario */
+  top: 15px; /* ajusta según sea necesario */
   right: 100px; /* ajusta según sea necesario */
   max-width: 35%; /* la imagen ocupará máximo el ancho del contenedor */
   height: auto; /* la altura se ajustará automáticamente para mantener la proporción */
