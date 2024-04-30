@@ -98,3 +98,12 @@ div img:last-child {
   max-width: 200px; /* Ajusta el tamaño según sea necesario */
   margin: 10px;
 }
+.images-container {
+  position: relative;
+}
+
+.logo {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+}
