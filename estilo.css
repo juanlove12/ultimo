@@ -104,15 +104,15 @@ div img:last-child {
 
 .logo {
   position: fixed;
-  top: 10px;
-  right: 100px;
+  top: 15px; /* ajusta según sea necesario */
+  right: 50px; /* ajusta según sea necesario */
 }
 
 .imagen-centrada {
   display: block;
   position: absolute;
-  top: 15px; /* ajusta según sea necesario */
-  right: 100px; /* ajusta según sea necesario */
-  max-width: 25%; /* la imagen ocupará máximo el ancho del contenedor */
-  height: 20%; /* la altura se ajustará automáticamente para mantener la proporción */
+  top: 20px; /* ajusta según sea necesario */
+  right: 50px; /* ajusta según sea necesario */
+  max-width: 20%; /* la imagen ocupará máximo el 20% del contenedor */
+  height: auto; /* la altura se ajustará automáticamente para mantener la proporción */
 }
