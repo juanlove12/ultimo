@@ -112,7 +112,7 @@ div img:last-child {
   display: block;
   position: absolute;
   top: 10px; /* ajusta según sea necesario */
-  right: 10px; /* ajusta según sea necesario */
-  max-width: 100%; /* la imagen ocupará máximo el ancho del contenedor */
+  right: 100px; /* ajusta según sea necesario */
+  max-width: 10%; /* la imagen ocupará máximo el ancho del contenedor */
   height: auto; /* la altura se ajustará automáticamente para mantener la proporción */
 }
