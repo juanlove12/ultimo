@@ -58,7 +58,7 @@ h3 {
 }
 
 p {
-  text-align: justify;
+  text-align: center;
   color: #ECECEC;
   font-family: 'Amasis MT Pro Black', sans-serif;
   src: url('AmasisMTProBlack.woff2') format('woff2'),
