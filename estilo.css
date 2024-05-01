@@ -66,7 +66,7 @@ p {
   margin: 10px;
 }
 
-  h6, h7, h8 ,h10{
+  h6, h7, h8 {
   color: #E5E5E5;
   text-align: center;
   font-size: 24px;
@@ -92,6 +92,12 @@ p {
    text-align: center;
   font-size: 40px;
   text-shadow: 0 0 5px red, 0 0 15px red, 0 0 30px red, 0 0 50px red;
+}
+h10{
+  color: #E5E5E5;
+  text-align: center;
+  font-size: 35px;
+  margin-top: 500px; 
 }
 
 
