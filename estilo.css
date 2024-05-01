@@ -74,15 +74,7 @@ p {
 }
 
 .container {
-  border: 2px solid white;
-  box-shadow: inset 0 0 5px red, 0 0 10px red;
-  border-radius: 60px;
-  max-width: 400px;
-  margin: auto;
-  margin-top: -270px;
-  padding: 20px;
-  text-align: center;
-  color: white;
+
 }
 
 .neon {
@@ -90,7 +82,7 @@ p {
 
   text-align: center;
  font-size: 40px; 
-margin-top: 15px;
+margin-top: 0px;
   text-shadow: 0 0 5px red, 0 0 15px red, 0 0 30px red, 0 0 50px red;
 }
 }
