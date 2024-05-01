@@ -59,7 +59,7 @@ h3 {
 
 p {
   text-align: center;
-animation: parpadear 10s infinite backwards steps(3);
+ text-shadow: 0 0 5px white, 0 0 15px white, 0 0 30px white;
   font-family: 'Amasis MT Pro Black', sans-serif;
   src: url('AmasisMTProBlack.woff2') format('woff2'),
        url('AmasisMTProBlack.woff') format('woff');
