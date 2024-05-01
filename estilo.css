@@ -57,9 +57,18 @@ h3 {
    font-family: Georgia, serif;
 }
 
-p {
+p1 {
   text-align: center;
  text-shadow: 0 0 35px white, 0 0 35px white, 0 0 30px white;
+  font-family: 'Amasis MT Pro Black', sans-serif;
+  src: url('AmasisMTProBlack.woff2') format('woff2'),
+       url('AmasisMTProBlack.woff') format('woff');
+  font-size: 25px;
+  margin: 10px;
+}
+p {
+  text-align: center;
+
   font-family: 'Amasis MT Pro Black', sans-serif;
   src: url('AmasisMTProBlack.woff2') format('woff2'),
        url('AmasisMTProBlack.woff') format('woff');
