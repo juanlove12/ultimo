@@ -26,8 +26,9 @@ nav ul {
 }
 
 nav li {
-  display: inline-flex;
-   text-align: center;
+ display: inline-flex; /* Mostrar los elementos en línea */
+  justify-content: center; /* Centrar el contenido dentro de los elementos */
+  margin: 10px;
 }
 
 nav a {
