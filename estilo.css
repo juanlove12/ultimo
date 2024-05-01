@@ -59,7 +59,7 @@ h3 {
 
 p1 {
   text-align: center;
-  text-shadow: 0 0 10px white, 0 0 10px white, 0 0 10px white; /* Ajusta el valor de la sombra para hacerla más pronunciada */
+  text-shadow: 0 0 10px gray, 0 0 10px gray, 0 0 10px gray; 
   font-family: 'Amasis MT Pro Black', sans-serif;
   font-size: 25px;
   margin: 10px;
