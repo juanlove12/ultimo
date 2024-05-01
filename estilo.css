@@ -92,7 +92,7 @@ p {
 
   text-align: center;
  font-size: 40px; 
-margin-top: 5px;
+margin-top: -5px;
   text-shadow: 0 0 5px red, 0 0 15px red, 0 0 30px red, 0 0 50px red;
 }
 }
