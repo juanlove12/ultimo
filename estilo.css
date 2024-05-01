@@ -63,7 +63,7 @@ p {
   font-family: 'Amasis MT Pro Black', sans-serif;
   src: url('AmasisMTProBlack.woff2') format('woff2'),
        url('AmasisMTProBlack.woff') format('woff');
-  font-size: 16px;
+  font-size: 25px;
   margin: 10px;
 }
 
