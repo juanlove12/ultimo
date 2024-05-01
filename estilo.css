@@ -97,10 +97,9 @@ h10 {
   color: #E5E5E5;
   text-align: center;
   font-size: 35px;
-  margin-top: 200px; /* Reducir el valor para bajar el elemento */
-  margin-bottom: 20px; /* Añadir un margen inferior si es necesario */
+  margin-top: 200px !important;
+  margin-bottom: 20px;
 }
-
 
 div {
   margin: 20px;
