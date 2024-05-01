@@ -59,7 +59,7 @@ h3 {
 
 p1 {
   text-align: center;
- text-shadow: 0 0 35px white, 0 0 35px white, 0 0 30px white;
+ text-shadow: 0 0 50px white, 0 0 50px white, 0 0 50px white;
   font-family: 'Amasis MT Pro Black', sans-serif;
   src: url('AmasisMTProBlack.woff2') format('woff2'),
        url('AmasisMTProBlack.woff') format('woff');
@@ -67,6 +67,7 @@ p1 {
   margin: 10px;
 }
 p {
+  color: white;
   text-align: center;
 
   font-family: 'Amasis MT Pro Black', sans-serif;
