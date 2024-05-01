@@ -59,28 +59,28 @@ h3 {
 
 p1 {
   text-align: center;
-text-shadow: 0 0 10px #ffb6c1, 0 0 10px #ffb6c1, 0 0 10px #ffb6c1;
+ color: white;
   font-family: 'Amasis MT Pro Black', sans-serif;
   font-size: 25px;
   margin: 10px;
 }
 p2 {
   text-align: center;
-text-shadow: 0 0 10px #add8e6, 0 0 10px #add8e6, 0 0 10px #add8e6;
+ color: white;
   font-family: 'Amasis MT Pro Black', sans-serif;
   font-size: 25px;
   margin: 10px;
 }
 p3{
   text-align: center;
- text-shadow: 0 0 10px #D9EAD3, 0 0 20px #D9EAD3, 0 0 30px #D9EAD3;
+ color: white;
   font-family: 'Amasis MT Pro Black', sans-serif;
   font-size: 25px;
   margin: 10px;
 }
 p4 {
   text-align: center;
- text-shadow: 0 0 10px white, 0 0 10px white, 0 0 10px white;
+ color: white;
   font-family: 'Amasis MT Pro Black', sans-serif;
   font-size: 25px;
   margin: 10px;
@@ -178,7 +178,7 @@ div img:last-child {
   margin: 10px;
 }
 .images-container {
-  position: relative;
+  text-align: center; /* Centrar todas las imágenes */
 }
 
 .logo {
